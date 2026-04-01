@@ -1,2 +1,8 @@
-flask
-gunicorn
+Flask==3.1.0
+pandas==2.2.3
+numpy==1.26.4
+joblib==1.4.2
+scikit-learn==1.6.1
+xgboost==2.1.4
+catboost==1.2.8
+tensorflow==2.15.1
